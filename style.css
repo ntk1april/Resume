@@ -1,0 +1,26 @@
+.skill-row {
+    text-align: center;
+    margin: auto;
+    padding: 7px;
+}
+.java {
+    width: 10%;
+    padding: 15px;  
+}
+.html {
+    width: 10%;
+    padding: 15px; 
+}
+.css {
+    width: 10%;
+    padding: 15px; 
+}
+.js {
+    width: 10%;
+    padding: 15px; 
+}
+.cr {
+    width: 10%;
+    padding: 15px; 
+    border-radius: 50%;
+}
