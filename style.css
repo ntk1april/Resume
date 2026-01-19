@@ -1,26 +1,15 @@
+.skillsss {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 100px;
+  align-items: start;
+  display: flex;
+  justify-content: center;
+}
 .skill-row {
-    text-align: center;
-    margin: auto;
-    padding: 7px;
+  height: 100%;
 }
-.java {
-    width: 10%;
-    padding: 15px;  
-}
-.html {
-    width: 10%;
-    padding: 15px; 
-}
-.css {
-    width: 10%;
-    padding: 15px; 
-}
-.js {
-    width: 10%;
-    padding: 15px; 
-}
-.cr {
-    width: 10%;
-    padding: 15px; 
-    border-radius: 50%;
+.skill-text {
+  display: grid;
+  grid-template-rows: auto 1fr;
 }
